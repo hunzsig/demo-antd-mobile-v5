@@ -73,7 +73,7 @@
   },
   "name": "hunzsig_project",
   "proxyConfig": {
-    "/api": "http://api.io:3002",
+    "/api": "http://api.io:3002"
   },
   "scripts": {
     "app": "cliv16 app",
