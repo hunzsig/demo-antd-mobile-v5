@@ -41,7 +41,6 @@
     "enquire-js": "0.2.1",
     "file-saver": "2.0.2",
     "foundation-symbol": "0.1.4",
-    "immutable": "3.8.2",
     "jszip": "3.5.0",
     "moment": "^2.27.0",
     "nanoid": "2.1.11",
